@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit
 google-generativeai
 python-dotenv
@@ -7,15 +6,3 @@ PyPDF2
 faiss-cpu
 langchain-community
 langchain_google_genai
-
-=======
-streamlit
-google-generativeai
-python-dotenv
-langchain
-PyPDF2
-faiss-cpu
-langchain-community
-langchain_google_genai
-
->>>>>>> 7f47261 (initial commit)
