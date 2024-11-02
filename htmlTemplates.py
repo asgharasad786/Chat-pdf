@@ -135,7 +135,7 @@ header {
 
 /* Browse files text styling */
 .stSidebar .stFileUploader span {
-    color: black !important; /* Black text */
+    color: white !important; /* Black text */
 }
 
 /* Process button styling */
