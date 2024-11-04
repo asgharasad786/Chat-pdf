@@ -3,7 +3,6 @@ css = '''
 /* Global styling for the entire screen */
 body {
     background-color: #303030; /* Dark grey background */
-    color: black;s
     color: white !important; /* White text color */
     font-family: 'Arial', sans-serif; /* Font family */
 }
@@ -12,6 +11,7 @@ input[type="text"] {
     background-color: white !important; /* Black background */
     outline: none !important; /* Remove the default outline */
     box-shadow: none !important; /* Remove any default shadow */
+    color: black;
 
 }
 /* Label text for input boxes */
